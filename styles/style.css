@@ -150,6 +150,11 @@ button {
  .article__image {
   padding-right: 1rem;
  }
+ .learnMore {
+  display: flex;
+  justify-content: space-between;
+  }
+ }
 /* Footer */
 
 .footer {
