@@ -131,7 +131,14 @@ button {
 .article__read-more:last-child {
   margin-bottom: 0;
 }
-
+.article {
+  display: flex;
+  border: solid rgb(231, 181, 181);
+  padding: 25px;
+ }
+ .article__image {
+  padding-right: 1rem;
+ }
 /* Footer */
 
 .footer {
