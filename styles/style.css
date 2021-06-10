@@ -36,7 +36,18 @@ button {
 }
 
 /* Buttons */
-
+.donateButton {
+  background-color: rgb(205, 156, 92);
+  color: white;
+}
+.donateBike{
+  background-color: rgb(205, 156, 92);
+  color: white;
+}
+.volunteerButton {
+  
+  color: white;
+}
 /* INSERT BUTTON STYLES HERE */
 
 /* Alert */
